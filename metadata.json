@@ -1,0 +1,5 @@
+{
+  "name": "GENESIS AI SOUND",
+  "description": "A multi-step wizard to help musicians build the perfect AI music prompt. This app organizes user choices into a final, detailed prompt for music generation models, but does not generate audio itself.",
+  "requestFramePermissions": []
+}
